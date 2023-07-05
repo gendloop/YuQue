@@ -17,10 +17,10 @@
             "Pop-Location"
         ]
     },
-    "bin": "YuQue.exe",
+    "bin": "语雀.exe",
     "shortcuts": [
         [
-            "YuQue.exe",
+            "语雀.exe",
             "YuQue"
         ]
     ],
